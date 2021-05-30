@@ -1,0 +1,6 @@
+.cover {
+  min-height: 740px;
+  background: url(../../images/cover-trains.jpg) center center #2A2C2F;
+  background-size: cover;
+}
+

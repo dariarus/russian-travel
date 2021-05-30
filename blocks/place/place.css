@@ -1,8 +1,7 @@
 .place {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr 3fr;
-  /*grid-template-rows: 23% 38.5% 38.5%;*/
+  grid-template-columns: 1fr minmax(min-content, max-content);
+  grid-template-rows: minmax(min-content, max-content) 3fr;
   gap: 48px 40px;
   margin-top: 80px;
 }
