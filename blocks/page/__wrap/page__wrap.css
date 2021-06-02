@@ -1,3 +1,10 @@
 .page__wrap {
-  margin-top: 92px;
+  margin: 92px auto 0;
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 768px) {
+  .page__wrap {
+    margin-top: 90px;
+  }
 }

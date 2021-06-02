@@ -3,10 +3,11 @@
   margin-top: 12px;
   text-decoration: underline;
   font-family: 'Inter', 'Arial', sans-serif;
-  font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: #FFFFFF;
   transition: opacity .2s linear;
 }

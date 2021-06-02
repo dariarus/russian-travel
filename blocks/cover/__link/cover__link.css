@@ -1,7 +1,7 @@
 .cover__link {
   display: block;
   width: 100%;
-  min-height: 740px;
+  min-height: inherit;
   text-decoration: none;
   transition: background-color .4s ease-out;
 }

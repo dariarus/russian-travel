@@ -1,3 +1,15 @@
 .figure {
-  margin: 0;
+  margin: 64px 0 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .figure {
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .figure {
+    margin: 40px 0 0;
+  }
 }
