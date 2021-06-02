@@ -8,3 +8,9 @@
     margin-top: 90px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .page__wrap {
+    margin-top: 66px;
+  }
+}

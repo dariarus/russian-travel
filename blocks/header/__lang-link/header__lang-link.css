@@ -6,13 +6,17 @@
   line-height: 28px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-decoration: underline;
+  text-decoration: none;
   color: #ffffff;
+  transition: opacity .2s linear;
 }
 
 .header__lang-link:last-of-type {
   margin-right: 0;
-  text-decoration-line: none;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 320px) {
