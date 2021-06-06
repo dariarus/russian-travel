@@ -1,0 +1,7 @@
+.photo-grid__item-image {
+  width: 100%;
+  object-fit: contain;
+  object-position: center center;
+  display: block;
+}
+
