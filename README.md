@@ -6,4 +6,4 @@
 
 ## *Используемые технологии*: HTML5, CSS3, flexbox, grid layout
 
-## *Ссылка на проектный сайт на GitHub Pages*: [Проект тут](https://dariarus.github.io/)
+## *Ссылка на проектный сайт на GitHub Pages*: [Проект тут](https://dariarus.github.io/russian-travel/)
